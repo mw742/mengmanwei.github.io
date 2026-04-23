@@ -1,11 +1,14 @@
 ---
 permalink: /
-title: Mengman Wei
+title: "Mengman Wei | Computational Neuroscience, Genetics, and Machine Learning"
 author_profile: true
+description: "Official academic homepage of Mengman Wei, postdoctoral researcher in computational neuroscience, genetics, and machine learning at Scripps Research."
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+**Official academic homepage of Mengman Wei**
 
 I am currently a postdoctoral researcher in computational neuroscience, genetic analysis, and machine learning at the Scripps Research Institute. My research focuses on developing quantitative models to understand human behavior.
 
@@ -32,10 +35,11 @@ My long-term goal is to contribute to the development of effective treatment and
 04/02/2026
 
 ## Selected Honors & Awards
-RSA Junior Investigator Award, 2026
-Scripps Research Travel Award, 2025
-RSA Junior Investigator Award, 2025
-Outstanding Graduate of Beijing City, 2018
-Outstanding Graduate of Peking University, 2018
-National Scholarship of Peking University, 2017
-First-Class Academic Scholarship of Peking University, 2017
+
+- RSA Junior Investigator Award, 2026  
+- RSA Junior Investigator Award, 2025  
+- Scripps Research Travel Award, 2025  
+- Outstanding Graduate of Beijing City, 2018  
+- Outstanding Graduate of Peking University, 2018  
+- National Scholarship of Peking University, 2017  
+- First-Class Academic Scholarship of Peking University, 2017  
