@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-**Official academic homepage of Mengman Wei**
 
 I am currently a postdoctoral researcher in computational neuroscience, genetic analysis, and machine learning at the Scripps Research Institute. My research focuses on developing quantitative models to understand human behavior.
 
